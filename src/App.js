@@ -11,7 +11,7 @@ class App extends Component {
             <img id="image" alt="Jesus Rodriguez" src={me} />
             <h1 id="name">Jesus Rodriguez</h1>
             <ul id="links">
-                <Link name="Github" link="https://github.com/jrodriguez-ifuelinteractive" />
+                <Link name="GitHub" link="https://github.com/jrodriguez-ifuelinteractive" />
                 <Link name="Twitter" link="https://twitter.com/jesuserodriguez" />
                 <Link name="Instagram" link="https://www.instagram.com/z0e0u0s/" />
             </ul>
